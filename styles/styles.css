@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(https://magodeozoficial.com/wp-content/uploads/2022/10/fondo-gris-claro.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: "Open Sans";
+}
+
+#home{
+    background-image: url(https://magodeozoficial.com/wp-content/uploads/2022/10/fondo-banner.png);
+    height: 997px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    background-color: black;
+    height: 39.5px;
+
+}
+
+nav{
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#menuItemSup{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 25px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#logoMagoDeOz{
+    width: 330px;
+}
