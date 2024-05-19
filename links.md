@@ -8,6 +8,8 @@ logo inicio
 https://magodeozoficial.com/wp-content/uploads/2022/10/cropped-logo-mago-de-oz-rosa-opt.png
 separador de seccion
 https://magodeozoficial.com/wp-content/uploads/2021/09/barra-marron-png.png
+fonfo proximos conciertos
+https://magodeozoficial.com/wp-content/uploads/2022/10/FONDO-CORAZON-OK.jpg
 titulo proximos conciertos
 https://magodeozoficial.com/wp-content/uploads/2021/09/brujula-proximos.png
 imagen tabla proximos conciertos

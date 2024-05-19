@@ -13,17 +13,13 @@ body{
 }
 
 #home{
-    background-image: url(https://magodeozoficial.com/wp-content/uploads/2022/10/fondo-banner.png);
-    height: 997px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    display: flex;
+    flex-direction: column;
 }
 
 header{
     background-color: black;
     height: 39.5px;
-
 }
 
 nav{
@@ -31,6 +27,12 @@ nav{
     display: flex;
     align-items: center;
     justify-content: center;
+    z-index: 1;
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+    margin: auto;
 }
 
 #menuItemSup{
@@ -46,4 +48,23 @@ nav{
 
 #logoMagoDeOz{
     width: 330px;
+}
+
+#fondoBanner{
+    max-width: 100%;
+    width: 100%;
+}
+
+.contentSeparator{
+    padding: 12px 12px 12px 12px;
+    background-image: url(https://magodeozoficial.com/wp-content/uploads/2021/09/barra-marron-png.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}    
+
+#nextConcerts{
+    background-color: #FFFFFF;
+    background-image: url(https://magodeozoficial.com/wp-content/uploads/2022/10/FONDO-CORAZON-OK.jpg);
 }
