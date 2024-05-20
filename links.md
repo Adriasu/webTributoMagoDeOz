@@ -32,3 +32,32 @@ imagen segundo parrafo
 https://mariskalrock.com/wp-content/uploads/2017/05/IMG_20170506_160721.jpg
 ultima foto
 https://scontent-mad2-1.xx.fbcdn.net/v/t39.30808-6/441958730_997027415112792_5025360044058275163_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=FaINMXi7Z6UQ7kNvgFmhehA&_nc_ht=scontent-mad2-1.xx&oh=00_AYD1Ff4vxEdqbAgOdZ5F4DP9dL_qlQbPxZ0RSJR5Ykn9Rw&oe=665085B2
+titulo imagenes
+https://magodeozoficial.com/wp-content/uploads/elementor/thumbs/galeria-de-imagenes-qi7jx4nnplwhzgpkqa1kpzl4lkmc30th5j2acn4yqk.png
+
+txus
+https://magodeozoficial.com/wp-content/uploads/2023/12/MagodeOz_2023_NatEnemedePhotography_0372.jpg
+
+moha
+https://magodeozoficial.com/wp-content/uploads/2023/12/MagodeOz_2023_NatEnemedePhotography_0076.jpg
+
+rafa
+https://magodeozoficial.com/wp-content/uploads/2023/12/MagodeOz_2023_NatEnemedePhotography_0307.jpg
+
+victor
+https://magodeozoficial.com/wp-content/uploads/2023/12/MagodeOz_2023_NatEnemedePhotography_0163.jpg
+
+jorge
+https://magodeozoficial.com/wp-content/uploads/2023/12/MagodeOz_2023_NatEnemedePhotography_0136.jpg
+
+josema
+https://magodeozoficial.com/wp-content/uploads/2023/12/MagodeOz_2023_NatEnemedePhotography_0486.jpg
+
+fer
+https://magodeozoficial.com/wp-content/uploads/2023/12/MagodeOz_2023_NatEnemedePhotography_0208.jpg
+
+Francesco
+https://magodeozoficial.com/wp-content/uploads/2023/12/MagodeOz_2023_NatEnemedePhotography_0422.jpg
+
+titulo video
+https://magodeozoficial.com/wp-content/uploads/elementor/thumbs/videos-qi7k42oq7jerrqme6a4c58hqm2dyyie2rwlg08u8rg.png
