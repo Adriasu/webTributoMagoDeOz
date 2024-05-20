@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CONTACTO</title>
+    <link
+      rel="icon"
+      href="https://magodeozoficial.com/wp-content/uploads/2020/05/cropped-favicon-Mago-de-oz-32x32.png"
+      sizes="32x32"
+    />
+    <link rel="stylesheet" href="/styles/formulario.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Freeman&family=Jacquard+12&family=Jaro:opsz@6..72&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poetsen+One&family=Sedan+SC&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header></header>
+    <nav>
+      <ul id="menuItemSup">
+        <li><a href="/index.html">inicio</a></li>
+        <li>noticias</li>
+        <li>tour</li>
+        <li>fotos</li>
+        <li><a href="/index.html">
+          <img 
+            src="https://magodeozoficial.com/wp-content/uploads/2022/10/cropped-logo-mago-de-oz-rosa-opt.png"
+            alt="logoMagoDeOz"
+            id="logoMagoDeOz"
+          /></a>
+        </li>
+        <li>vídeos</li>
+        <li>contratación</li>
+        <li>contacto</li>
+      </ul>
+    </nav>
+
+    <section>
+      <div id="formulario">
+        <div>
+          <h1>Contacto España/Europa</h1>
+          <p>Calle Underground</p>
+          <br /><br />
+          <p>
+            Teléfonos: <br />
+            +(34) 616 87 87 76 <br />
+            +(34) 983 35 49 35
+          </p>
+          <br /><br />
+          <p>
+            E-mail: <br />
+            info@calleunderground.es
+          </p>
+          <br /><br />
+          <p>
+            Web: <br />
+            www.CalleUnderground.es
+          </p>
+        </div>
+
+        <form>
+          <label for="fname">Tu nombre (Necesario)</label><br />
+          <input
+            type="text"
+            id="fname"
+            name="fname"
+            placeholder="Escribe tu nombre"
+            class="textBar"
+          /><br /><br />
+
+          <label for="email">Tu correo electronico (Necesario)</label><br />
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Esribe tu correo electrónico"
+            class="textBar"
+          /><br /><br />
+
+          <label for="tel">Teléfono (Necesario)</label><br />
+          <input
+            type="tel"
+            id="tel"
+            name="tel"
+            placeholder="Escribe tu Teléfono"
+            class="textBar"
+          /><br /><br />
+
+          <label for="country">País (Necesario)</label><br />
+          <input
+            list="country"
+            name="country"
+            placeholder="Escribe tu país"
+            class="textBar"
+          />
+          <datalist id="country">
+            <option value="España"></option>
+            <option value="Colombia"></option>
+            <option value="México"></option></datalist
+          ><br /><br />
+
+          <label for="message">Tu mensaje</label><br />
+          <textarea
+            name="message"
+            id="message"
+            rows="10"
+            cols="50"
+          ></textarea
+          ><br /><br />
+
+          <input type="checkbox" id="accept" name="accept" value="accept" />
+          <label for="accept">Acepto la política de protección de datos</label
+          ><br /> <br>
+
+          <input type="submit" value="Enviar" />
+        </form>
+      </div>
+    </section>
+  </body>
+</html>
