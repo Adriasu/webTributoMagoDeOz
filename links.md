@@ -12,7 +12,7 @@ fonfo proximos conciertos
 https://magodeozoficial.com/wp-content/uploads/2022/10/FONDO-CORAZON-OK.jpg
 titulo proximos conciertos
 https://magodeozoficial.com/wp-content/uploads/2021/09/brujula-proximos.png
-imagen tabla proximos conciertos
+primera fecha
 https://magodeozoficial.com/wp-content/uploads/2024/01/OKOKOK-150x150.jpg
 segunda fecha
 https://magodeozoficial.com/wp-content/uploads/2024/03/chile-2-150x150.jpeg
