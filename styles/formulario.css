@@ -24,6 +24,10 @@ nav{
     justify-content: center; 
 }
 
+#inicio{
+    color: white;
+}
+
 #menuItemSup{
     display: flex;
     list-style: none;
@@ -77,5 +81,15 @@ label{
 
 textarea{
     width: 100%;
+}
+
+#submit{
+    border: 3px solid black;
+    width: 100%;
+    height: 50px;
+    background-color: #b8b8b8;
+    font-size: 20px;
+    font-family: "Open Sans";
+    font-weight: bold;
 }
 

@@ -35,6 +35,10 @@ nav{
     margin: auto;
 }
 
+#contacto{
+    color: white;
+}
+
 #menuItemSup{
     display: flex;
     list-style: none;
