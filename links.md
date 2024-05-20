@@ -22,3 +22,13 @@ curta fecha
 https://magodeozoficial.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-26-at-10.36.10-6-150x150.jpeg
 quinta fecha
 https://magodeozoficial.com/wp-content/uploads/2024/01/puebla-150x150.jpeg
+fondo about
+https://magodeozoficial.com/wp-content/uploads/2022/10/mago-fondo-gris.jpg
+titulo about
+https://magodeozoficial.com/wp-content/uploads/elementor/thumbs/ultimas-noticias_home-qi7jspsxmlv1hd4bhvdmilo87gday6au7ot88vohy4.png
+imagen primer parrafo
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cqmoWeDABzhJDSZ1N9XS7YIW6LArnfDIbeJqNAwLJw&s
+imagen segundo parrafo
+https://mariskalrock.com/wp-content/uploads/2017/05/IMG_20170506_160721.jpg
+ultima foto
+https://scontent-mad2-1.xx.fbcdn.net/v/t39.30808-6/441958730_997027415112792_5025360044058275163_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=FaINMXi7Z6UQ7kNvgFmhehA&_nc_ht=scontent-mad2-1.xx&oh=00_AYD1Ff4vxEdqbAgOdZ5F4DP9dL_qlQbPxZ0RSJR5Ykn9Rw&oe=665085B2

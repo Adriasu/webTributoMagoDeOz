@@ -71,7 +71,7 @@ nav{
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    height: 1000px;
+    height: 940px;
 }
 
 .elementorBackgroundOverlay{
@@ -95,13 +95,99 @@ table{
     width: 100%;
     padding: 40px;
     border-spacing: 0;
+    color: #e1a3ad;
+    font-size: 20px;
 }
 
 .concertLine{
     background-color: rgba(0, 0, 0, 0.4);
-    height: 108px;
+    height: 108px;   
 }
 
 .spacer {
     height: 10px;
 }
+
+.dateEvent{
+    font-weight: bold;
+    width: 296px;
+}
+
+.eventTime{
+    font-size: 15px;
+}
+
+table tr:first-child td:first-child{
+    width: 175px;
+}
+
+.botonEvent{
+    background-color: aqua;
+    
+}
+
+.botonEventBlack{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 13px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#fullTourButton{
+    font-size: 20PX;
+    font-weight: bold;
+    letter-spacing: 2px;
+    background-color: #3F403E;
+    color: white;
+    padding: 10px;
+    border: 2px solid white;
+}
+
+#about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://magodeozoficial.com/wp-content/uploads/2022/10/mago-fondo-gris.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 20px;
+    color: #b8b8b8;
+}
+
+#titleAbout{
+    width: 1000px;
+    margin: 30px;
+}
+
+.paragraphAbout{
+    display: flex;
+    margin: 10px 40px;
+    gap: 50px;
+    text-align: justify;
+}
+
+.textAbout{
+    display: flex;
+    align-items: center;
+}
+
+.imgAbout{
+    width: 400px;
+    border-radius: 10%;
+}
+
+.descriptionImage{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
